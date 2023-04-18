@@ -3,6 +3,6 @@ ssid=YOUR_SSID
 password=YOUR_PASSWORD
 server=YOUR_server
 port=80
-script=your_code.php
+script=date_time.php
 hash=YOUR_HASH
 tz=Asia/Dubai
